@@ -22,5 +22,5 @@ A good article to get started: https://facebook.github.io/react/docs/thinking-in
 The Giphy API docs: https://github.com/Giphy/GiphyAPI
 
 
-[:truck: Happy coding! :truck:](http://media1.giphy.com/media/2G4flVpbo6RmE/giphy.gif)
+:truck: Happy coding! :truck:
 
