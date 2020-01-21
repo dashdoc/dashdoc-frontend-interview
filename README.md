@@ -13,7 +13,7 @@ The main screen should have a button to refresh the list.
 
 ## Build instructions
 
-You are free to do it the way you want! We recommend using the great [create-react-app](https://github.com/facebookincubator/create-react-app)
+You are free to do it the way you want! We recommend using [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ## Reference
 
